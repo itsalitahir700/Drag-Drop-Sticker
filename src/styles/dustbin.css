@@ -1,0 +1,18 @@
+.dustbin {
+  height: 100%;
+  width: 100%;
+  color: white;
+  border-radius: 0px;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  line-height: normal;
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bool {
+  height: 80%;
+  position: absolute;
+}
